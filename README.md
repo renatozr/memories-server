@@ -1,6 +1,8 @@
 # memories-server
-Memories social app backend
+Memories Social Media - Back-end
 
-Deploy: https://memories-api-wxll.onrender.com/posts
-
+<p>
+  API: https://memories-api-wxll.onrender.com/posts <br />
+  Pode haver delay pois o servidor está hospedado nos EUA
+</p>
 <p>Ref: https://www.youtube.com/watch?v=ngc9gnGgUdA</p>
